@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: Кредит на онлайн  в МФО України / Львів
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "МФО, які видають кредити онлайн на картку без відмови. Для оформлення заявки виберіть кілька найбільш привабливих варіантів зі списку, заповніть анкети на сайтах МФО і чекайте рішення. "
 ---
 
 Кредит на картку онлайн цілодобово в Україні. Отримати цілодобову позику на картку без відмови і перевірок 24/7. Рішення за 5 хвилин, мінімум документів.
@@ -10,15 +10,18 @@ Oh, and here's a great quote from this Wikipedia on
 [Кредити в МФО](https://uk.wikipedia.org/wiki/%D0%9C%D0%A4%D0%9E).
 [Кредити на карту онлайн в МФО](https://mfo24.info/).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+Мікропозики: що це таке і в чому їх переваги
+Раніше кредитування асоціювалося з відвідуванням банку, наданням великої кількості документів і тривалим розглядом заявки. Від усіх цих проблем дозволяє позбутися мікропозика онлайн. Даний вид позик передбачає оформлення кредиту через інтернет: заявка подається на сайті мікрофінансової компанії, а гроші перераховуються на картку заявника. При цьому подібні компанії пред’являють мінімум вимог до позичальників, а подати заявку можна в будь-який час. Отже, до переваг мікрозаймів на картку відносять:
 
-![Chinese Salty Egg](./salty_egg.jpg)
+мінімальна кількість документів (як правило, потрібен паспорт і будь-який інший документ);
+можливість оформлення кредиту для позичальників з поганою кредитною історією;
+швидке прийняття рішення;
+велика кількість програм (можна вибрати найбільш підходящий за умовами варіант);
+можливість отримати гроші буквально за кілька хвилин в цілодобовому режимі.
+Все, що потрібно для подачі заявки — це комп’ютер або смартфон з виходом в інтернет. Процес її заповнення максимально спрощений: потрібно вказати свої особисті дані, номер телефону, реквізити картки. Також в заяві вказується сума і термін кредитування, після чого вона відправляється на розгляд.
+
+Деякі МФО після отримання заявки зв’язуються з клієнтами, тому якщо після відправки вам надійшов дзвінок, обов’язково на нього дайте відповідь. Як правило, оператор уточнить надану інформацію і узгодить умови.
+
 
 You can also write code blocks here!
 
@@ -28,9 +31,9 @@ const saltyDuckEgg = "chinese preserved food product"
 
 | Number | Title                                    | Year |
 | :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+| 1      | МФО НОВІ СПИСОК| 2021 |
+| 2      | НАЙНОВІШІ КРЕДИТИ ОНЛАЙН  | 2022 |
+| 3      | САМІ НОВІ МФО В УКРАЇНІ | 2023 |
 
 [View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
@@ -43,18 +46,3 @@ This is a paragraph.
 ## Найновіші кредити онлайн Нові МФО 2022
 
 
-    *single asterisks*
-
-    _single underscores_
-
-    **double asterisks**
-
-    __double underscores__
-
-This paragraph has some `code` in it.
-
-    This paragraph has some `code` in it.
-
-![Alt Text](https://placehold.it/200x50 "Image Title")
-
-    ![Alt Text](https://placehold.it/200x50 "Image Title")
